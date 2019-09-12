@@ -14,3 +14,12 @@
 **Today's Progress**: 1.) How to define a method in ruby & 2.) Rspec intro on Learn.co
 
 **Thoughts:** It's my first time hands on Rspec exercise and not quite sure about mechanism. I decide not to dive in until I get a hang of all the ruby's fundamentals!
+
+
+### Day 3: Sep 11, 2019 
+
+**Today's Progress**: using string interpolation + method(def) to indicate the value of each grid
+
+**Thoughts:** This is my first exercise that contains ASCII character set to draw a graphic (the grids). It's a new experience and needs some time to process when creating the the method.
+
+**Link to work:**[Display Tic Tac Toe Board] (https://github.com/syrosalynyu/ttt-4-display-board-rb-bootcamp-prep-000/blob/master/lib/display_board.rb)
