@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+I have been coding every day for the last couple weeks. And today, Sep 9, 2019 I'm publicly committing to the 100DaysOfCode Challenge ~ ~ ~
+
 ### Day 1: Sep 9, 2019 
 
 **Today's Progress**: Completed Ada JumpStart lesson 13: student account generator v2 (Refactoring).
