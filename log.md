@@ -24,7 +24,7 @@ I have been coding every day for the last couple weeks. And today, Sep 9, 2019 I
 
 **Thoughts:** This is my first exercise that contains ASCII character set to draw a graphic (the grids). It's a new experience and needs some time to process when creating the the method.
 
-**Link to work:**[Display Tic Tac Toe Board](https://github.com/syrosalynyu/ttt-4-display-board-rb-bootcamp-prep-000/blob/master/lib/display_board.rb)
+**Link to work:** [Display Tic Tac Toe Board](https://github.com/syrosalynyu/ttt-4-display-board-rb-bootcamp-prep-000/blob/master/lib/display_board.rb)
 
 
 ### Day 4: Sep 12, 2019 
@@ -33,4 +33,15 @@ I have been coding every day for the last couple weeks. And today, Sep 9, 2019 I
 
 **Thoughts:** It doesn't take me long to create an array and inserted nested hashes to store data because I had a similar practice as Day 1, but the second section which asks for the Highest Earning Walker and Total amount earned drags me so long. I finally use max_by to locate the person who earn the most, and use map to extract the amount each person earned then add them up. 
 
-**Link to work:**[Ada JumpStart lesson 13: Walk-a-thon](https://repl.it/@syrosalynyu/JS-lesson-13-Walk-a-thon)
+**Link to work:** [Ada JumpStart lesson 13: Walk-a-thon](https://repl.it/@syrosalynyu/JS-lesson-13-Walk-a-thon)
+
+### Day 5: Sep 13, 2019 
+
+**Today's Progress**: Completed Ada JumpStart Live Day 3: exercise 3 (duck duck goose) & exercise 4 (require the user to enter the same value twice in order to add that value to the total)
+
+**Thoughts:** I use iterator (times) combine with conditional statement for exercise 3 and loop (while) with conditional staement for exercise 4. I am feeling more comfortable with the loop and iterators. 
+
+**Link to work:** 
+[JSL Day 3 exercise 3: duck duck goose](https://repl.it/@syrosalynyu/JSL-Day-3-exercise-3)
+<br>
+[JSL Day 3 Exercise 4: require the user to enter the same value twice in order to add that value to the total.](https://repl.it/@syrosalynyu/JSL-Day-3-Exercise-4)
