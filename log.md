@@ -45,3 +45,11 @@ I have been coding every day for the last couple weeks. And today, Sep 9, 2019 I
 [JSL Day 3 exercise 3: duck duck goose](https://repl.it/@syrosalynyu/JSL-Day-3-exercise-3)
 <br>
 [JSL Day 3 Exercise 4: require the user to enter the same value twice in order to add that value to the total.](https://repl.it/@syrosalynyu/JSL-Day-3-Exercise-4)
+
+### Day 6: Sep 15, 2019 
+
+**Today's Progress**: sort, sort_by, and descending sort 
+
+**Thoughts:** Try to use different way to acending and descending the order for the same array, but I have no luck on making the sort_by provdes the correct result. Will work on this tomorrow.
+
+**Link to work:** [sort, sort_by, and descending sort](https://repl.it/@syrosalynyu/sort-sortby-descending-sort)
