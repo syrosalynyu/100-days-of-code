@@ -53,3 +53,10 @@ I have been coding every day for the last couple weeks. And today, Sep 9, 2019 I
 **Thoughts:** Try to use different way to acending and descending the order for the same array, but I have no luck on making the sort_by provdes the correct result. Will work on this tomorrow.
 
 **Link to work:** [sort, sort_by, and descending sort](https://repl.it/@syrosalynyu/sort-sortby-descending-sort)
+
+### Day 6: Sep 16, 2019
+
+**Today's Progress**: a.) Solve the problem from yesterday. I used .sort_by in the if statement, but did not make it consistent in the else statement (I used .sort instead.). Once I change it from .sort to .sort_by in the else statement, it solves the problem. b.) Half way through the Codecademy > Learn Ruby > A night at the Movies. Will continue tomorrow.
+
+**Thoughts:** This type of bug is hard to find because I did not get any error message. I can't really locate the bug unless I look into each line.
+
