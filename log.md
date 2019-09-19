@@ -65,7 +65,15 @@ I have been coding every day for the last couple weeks. And today, Sep 9, 2019 I
 
 **Today's Progress**: completed Codecademy > Learn Ruby > A night at the Movies
 
-**Thoughts:**
+**Thoughts:** Practice "case...when.." using Codecademy's exercise. Also learned ".nil?" to see if a key exist in the has. I first used "== nil" but found that ".nil?" is the better way.
 
 **Link to work:** [case when + if/else](https://repl.it/@syrosalynyu/case-when-if-else)
+
+
+### Day 9: Sep 18, 2019
+
+**Today's Progress**: Codecademy 7. Refactor is half way done.
+
+**Thoughts:** There are things like Ternary Conditional Expression, Conditional Assignment ( ||= ), and if/unless in one line I have never learned before. Will continue on second half of chapter 7 and also complete the exercise in chapter 7 tomorrow. 
+
 
