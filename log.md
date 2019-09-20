@@ -76,4 +76,8 @@ I have been coding every day for the last couple weeks. And today, Sep 9, 2019 I
 
 **Thoughts:** There are things like Ternary Conditional Expression, Conditional Assignment ( ||= ), and if/unless in one line I have never learned before. Will continue on second half of chapter 7 and also complete the exercise in chapter 7 tomorrow. 
 
+### Day 10: Sep 19, 2019
+**Today's Progress**: Codecademy 7. Refactor second half done & learn about Boolean Zen on Ada JSL Day 4
+
+**Thoughts:** Learned about methods like .upto/.downto and .respond_to? and more practice on the Conditional Assignment ( ||= ), and if/unless in one line. Want to try out JSL Day 4 exercise tomorrow.
 
