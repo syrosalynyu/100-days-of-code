@@ -81,3 +81,15 @@ I have been coding every day for the last couple weeks. And today, Sep 9, 2019 I
 
 **Thoughts:** Learned about methods like .upto/.downto and .respond_to? and more practice on the Conditional Assignment ( ||= ), and if/unless in one line. Want to try out JSL Day 4 exercise tomorrow.
 
+
+### Day 11: Sep 20, 2019 
+
+**Today's Progress**: Completed Ada JumpStart Live Day 4: Password Verification
+
+**Thoughts:** I wrote 2 versions. The first version can lead to a problem: once I input a PW that has more than 8 charactors, the first whole loop will discontinue. Any future PWs I input that are less then 8 charactors wouldn't show's the statement "Your password needs to have 8 characters or more." anymore. 
+<br>
+Therefore, I create a second version using "until" loop with ifs statememts in it. Once the PW meets the requirement, the program will prompt for the password again. And then I use while loop to determine whether the second entry of PW is same as the approved PW that we input earlier.
+It is such a challenge, but I have a lot of fun :) 
+
+**Link to work:** [JSL Day 4: Password Verification](https://repl.it/@syrosalynyu/JSL-Day-4-exercise)
+
