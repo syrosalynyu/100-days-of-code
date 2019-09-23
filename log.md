@@ -93,3 +93,9 @@ It is such a challenge, but I have a lot of fun :)
 
 **Link to work:** [JSL Day 4: Password Verification](https://repl.it/@syrosalynyu/JSL-Day-4-exercise)
 
+
+### Day 12: Sep 22, 2019 
+
+**Today's Progress**: JSL Day 4 array_intro exercise 1, 2, 3
+
+**Thoughts:** exercise 3 is kinda tricky. Will have to research on that. What I have in mind right now is to use .map to split the "fire" and the rest part. 
