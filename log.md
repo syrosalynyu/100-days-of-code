@@ -96,6 +96,27 @@ It is such a challenge, but I have a lot of fun :)
 
 ### Day 12: Sep 22, 2019 
 
-**Today's Progress**: JSL Day 4 array_intro exercise 1, 2, 3
+**Today's Progress**: JSL Day 5 required exercise 1, 2, 3
 
 **Thoughts:** exercise 3 is kinda tricky. Will have to research on that. What I have in mind right now is to use .map to split the "fire" and the rest part. 
+
+**Link to work:** [JSL Day 5 exercise](https://repl.it/@syrosalynyu/JSL-Day-5-exercise-required-problem-1-to-6)
+
+
+### Day 12: Sep 23, 2019 
+
+**Today's Progress**: JSL Day 5 required exercise 3, 4, 5, 6
+
+**Thoughts:** For exercise 3, I learned about using .map plus .gsub() to remove spacing from each element in an array; using .map plus .clice() to remove unwanted characters from each element in an array. 
+For exercise 6, I learned about when rand() method is called with no arguments, it returns a float that is greater than or equal to 0.0 and less than 1.0.
+
+**Link to work:** [JSL Day 5 exercise](https://repl.it/@syrosalynyu/JSL-Day-5-exercise-required-problem-1-to-6)
+
+### Day 12: Sep 24, 2019 
+
+**Today's Progress**: JSL Day 5 optional exercise 1, 2, 3
+
+**Thoughts:** Question 2 wants me to input a entence and count the frequency of each letter, and qurstion 3 wants me to change binary value to decimal value. Different methods that I applied can lead to switching between array and string. I haven't resolve this problem, and will continue tomorrow.
+
+**Link to work:** [JSL Day 5 optional exercise](https://repl.it/@syrosalynyu/JSL-Day-5-exercise-optional-problem-1-to-3)
+
