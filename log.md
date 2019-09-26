@@ -120,3 +120,13 @@ For exercise 6, I learned about when rand() method is called with no arguments, 
 
 **Link to work:** [JSL Day 5 optional exercise](https://repl.it/@syrosalynyu/JSL-Day-5-exercise-optional-problem-1-to-3)
 
+
+### Day 12: Sep 25, 2019 
+
+**Today's Progress**: JSL Day 5 optional exercise 1, 2, 3 completed
+
+**Thoughts:** For exercise 3, I used two different ways to convert the binary value to decimal number. 1.) to_i(base=2) 2.) use each_with_index to iterate 0's and 1's with the converting formula => element * 2 ** i. 
+Fun exercises to work on.
+
+**Link to work:** [JSL Day 5 optional exercise](https://repl.it/@syrosalynyu/JSL-Day-5-exercise-optional-problem-1-to-3)
+
