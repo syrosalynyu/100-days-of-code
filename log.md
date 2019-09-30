@@ -130,3 +130,21 @@ Fun exercises to work on.
 
 **Link to work:** [JSL Day 5 optional exercise](https://repl.it/@syrosalynyu/JSL-Day-5-exercise-optional-problem-1-to-3)
 
+
+### Day 13: Sep 27, 2019 
+
+**Today's Progress**: JSL Day 5 Array exercise
+
+**Thoughts:** Practice on array using Ada's JumpStart Live material. I feel more confertable with using array, but I foudn that I tend to misued parentheses () to access elements. I should use square brackets [] instead.
+
+**Link to work:** [JSL Day 5 Array exercise](https://repl.it/@syrosalynyu/JSL-Day-5-Array-exercise)
+
+### Day 14: Sep 29, 2019 
+
+**Today's Progress**: JSL Day 6 Nested Hashes exercise
+
+**Thoughts:** I found that the solution of question "How could you add, "Christine Martin" to the clusters?" is incorrect. It was using the answer from the previous question. Therefore, I replaced it with the correct answer.
+A did a [pull request](https://github.com/Ada-Developers-Academy/jump-start-live/pull/27) and hopefully Ada will merge my changes to their master brach.
+
+**Link to work:** [JSL Day 6 Nested Hashes exercise](https://repl.it/@syrosalynyu/JSL-Day-6-Nested-Hashes-exercise)
+
