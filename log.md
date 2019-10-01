@@ -148,3 +148,11 @@ A did a [pull request](https://github.com/Ada-Developers-Academy/jump-start-live
 
 **Link to work:** [JSL Day 6 Nested Hashes exercise](https://repl.it/@syrosalynyu/JSL-Day-6-Nested-Hashes-exercise)
 
+### Day 15: Sep 30, 2019 
+
+**Today's Progress**: JSL Day 6 exercise
+
+**Thoughts:** I am trying to use times iterator to collect inputs from user, then fill in these inputs into hashes. But for some reason, my times iterator doesn't work properly. It stores only the final set of data to all hashes, and all the previous data sets are missing. I will have to investigate on that tomorrow.
+
+**Link to work:** [JSL Day 6 exercise](https://repl.it/@syrosalynyu/JSL-Day-6-exercise)
+
