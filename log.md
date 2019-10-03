@@ -156,3 +156,11 @@ A did a [pull request](https://github.com/Ada-Developers-Academy/jump-start-live
 
 **Link to work:** [JSL Day 6 exercise](https://repl.it/@syrosalynyu/JSL-Day-6-exercise)
 
+### Day 16: Oct 1, 2019 
+
+**Today's Progress**: Completed JSL Day 6 exercise
+
+**Thoughts:** I found out the reason it my iteration didn't work as expected. There was nothing wrong with my times iteraor, but was the way how I create the array. I was using `friends = Array.new(number_of_friends, {})`, but the proper way to create hashes inside of the array is by using `friends = Array.new(number_of_friends) { Hash.new }`. 
+
+**Link to work:** [JSL Day 6 exercise](https://repl.it/@syrosalynyu/JSL-Day-6-exercise)
+
