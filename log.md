@@ -165,9 +165,15 @@ A did a [pull request](https://github.com/Ada-Developers-Academy/jump-start-live
 **Link to work:** [JSL Day 6 exercise](https://repl.it/@syrosalynyu/JSL-Day-6-exercise)
 
 
-### Day 16: Oct 2, 2019 
+### Day 17: Oct 2, 2019 
 
 **Today's Progress**: Complete Learn Ruby Chapter 8 (Blocks, Procs, and Lambdas) on Codecademy 
 
 **Thoughts:** I learned that `Proc` and `lambda` can help creating a block that can be called over and over again. They are pretty much the same and are interchangeable, excep `Proc` will return immediately without going back to the calling method, but `lambda` will passes control back to the calling method. Using `Proc` and `lambda` can keep my code DRY (Don’t Repeat Yourself).
+
+### Day 18: Oct 3, 2019 
+
+**Today's Progress**: Codecademy 9. OBJECT-ORIENTED PROGRAMMING I is half way done.
+
+**Thoughts:** `class` is a blueprint for an object. Instance variables (@), Class variables (@@), Global variables ($) => in order to distinguish their different, they have their unique symbol to start with. I think reading and hands-on are needed before getting familiar with `class` 
 
