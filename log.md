@@ -177,3 +177,9 @@ A did a [pull request](https://github.com/Ada-Developers-Academy/jump-start-live
 
 **Thoughts:** `class` is a blueprint for an object. Instance variables (@), Class variables (@@), Global variables ($) => in order to distinguish their different, they have their unique symbol to start with. I think reading and hands-on are needed before getting familiar with `class` 
 
+### Day 19: Oct 4, 2019 
+
+**Today's Progress**: Codecademy 9. OBJECT-ORIENTED PROGRAMMING I second half.
+
+**Thoughts:** The lecture introduces `super`, but I don't quite understand how does it work.  I think reading and hands-on are needed.   
+
